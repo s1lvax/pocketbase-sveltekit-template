@@ -1,6 +1,8 @@
 # PocketBase + SvelteKit + Tailwind CSS Template
 
-This repo is forked from [![this video](https://img.youtube.com/vi/AxPB3e-3yEM/0.jpg)](https://youtu.be/AxPB3e-3yEM). All I did was remove the DaisyUI.
+[![this video](https://img.youtube.com/vi/AxPB3e-3yEM/0.jpg)](https://youtu.be/AxPB3e-3yEM)
+
+This repo is forked from [jianyuan/pocketbase-sveltekit-auth](https://github.com/jianyuan/pocketbase-sveltekit-auth). All I did was remove the DaisyUI.
 
 
 ## Developing
